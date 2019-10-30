@@ -53,5 +53,10 @@ WORK_PATH = sys.argv[2] if sys.argv[2:] else os.getcwd()
   or
   > python http_server.py 
         this takes a default port 8000
+  -- For pc/laptop open web browser and type ** localhost:[port](default:8000) **
+  -- For mobile open browser and type the ** systems ip adress:port number **
 ```
 - All the details will be stored in a json file. It is automatically created by code itself.
+
+# Screenshots
+
