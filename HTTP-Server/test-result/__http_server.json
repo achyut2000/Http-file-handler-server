@@ -1,0 +1,21 @@
+{
+  "/home/achyut/tcpPackage/IMG_20191028_181126.jpg": {
+                                                  "sha1sum": "278dc04f1a36ec41946e96292f63de3d83e09d4d", 
+                                                  "mtime": "1572319969.61", 
+                                                  "size": "15763169"
+                                                  }, 
+  "/home/achyut/tcpPackage/__http_server.json": {
+                                                "size": "575", 
+                                                "mtime": "1572413572.34", 
+                                                "sha1sum": "733e7e0e4e6aa88105f70d34165e239013c3b969"
+                                                }, 
+  "/home/achyut/tcpPackage/http_server.py": {
+                                            "size": "19566", 
+                                            "mtime": "1572413495.52", 
+                                            "sha1sum": "5cbd44e7ad8408459f657c464e5cc38d838fe950"
+                                            }, 
+  "/home/achyut/tcpPackage/server.py": {
+                                        "sha1sum": "06e4e66603394fa56524765c36e751cbf2dc162b", 
+                                        "mtime": "1572331165.0", 
+                                        "size": "1865"}
+}
